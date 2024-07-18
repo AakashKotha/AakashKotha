@@ -23,6 +23,7 @@ I am a passionate and dedicated **Machine Learning and Software Development Enth
 - **Silent Speech Decoding:** Collaborating with Dr. Lee Miller on using face feature tracking for silent speech decoding.
 - **Black-box Attack Research:** Previously worked with Dr. Anshuman on developing a black-box attack using a vanilla GAN, revealing critical vulnerabilities in state-of-the-art deep clustering models and optimizing query complexity to under 4,000 queries per model.
   
+### About Me: 
 - ⚡ Fun fact: I’m deeply fascinated by the potential of applied machine learning and enjoy researching how these technologies can address real-world challenges and enhance everyday life.
 
 Feel free to connect with me to discuss technology, machine learning, or any exciting projects!
