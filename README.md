@@ -27,15 +27,15 @@ I specialize in building **LLM-driven and data-centric systems** that merge scal
 
 ### 💻 Software Engineering Highlights  
 - **TinkerfAI – Full-Stack LLM Platform:** Designed a production-ready zero-code ML training app using **React + FastAPI + AWS (App Runner, Cognito, DynamoDB, S3)**; implemented guardrailed GPT-4o prompting and multi-role access workflows.  
-- **Retrieval-Augmented Generation – Wang Lab:** Architected a cloud-based RAG system with topic-segmented vector stores, query decomposition, and Raptor summarization, reducing retrieval latency by 70 %.  
+- **Retrieval-Augmented Generation – Wang Lab:** Architected a cloud-based RAG system with topic-segmented vector stores, query decomposition, and Raptor summarization, reducing retrieval latency by 70%.  
 - **Backend Systems & DevOps:** Built CI/CD pipelines with Docker and AWS App Runner; deployed multi-service APIs on AWS with container orchestration and secrets management.  
 
 ---
 
 ### 🔬 Research & Applied AI  
-- **Silent Speech Decoding – Miller Lab:** Synthesized an sEMG → speech pipeline (HuBERT + Tacotron-2) restoring laryngectomy patients’ voices with 82 % intelligibility.  
+- **Silent Speech Decoding – Miller Lab:** Synthesized an sEMG → speech pipeline (HuBERT + Tacotron-2) restoring laryngectomy patients’ voices with 82% intelligibility.  
 - **LLM Evaluation – Turing:** Built a multi-agent benchmarking framework with *LLM-as-a-Judge* and consensus validation, auditing GPT-4o vs Gemini 2.5 Pro for reasoning reliability.  
-- **LLM Hallucination Audit:** Designed a quantitative framework analyzing hallucination behavior using chi-square tests, z-tests, and logistic regression, revealing a 37 % reduction in GPT-4o hallucination rate compared to GPT-3.5.  
+- **LLM Hallucination Audit:** Designed a quantitative framework analyzing hallucination behavior using chi-square tests, z-tests, and logistic regression, revealing a 37% reduction in GPT-4o hallucination rate compared to GPT-3.5.  
 
 ---
 
@@ -48,7 +48,7 @@ I specialize in building **LLM-driven and data-centric systems** that merge scal
 ---
 
 ### 🏆 Achievements  
-- **ECE Fellowship – $5 000** for contributions to agentic AI systems  
+- **ECE Fellowship – $5,000** for contributions to agentic AI systems  
 - **AWS AI & ML Scholarship Recipient**  
 - **UC Davis Teaching Assistant** – taught 400 + students through live debugging and personalized guidance  
 
