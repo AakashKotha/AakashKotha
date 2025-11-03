@@ -13,20 +13,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+## Hi there 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AakashKotha&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AakashKotha&label=Profile%20views&color=0e75b6&style=flat" alt="AakashKotha" />
+</p>
 
-I am a passionate and dedicated **Machine Learning and Software Development Enthusiast**, currently pursuing my MS in Computer Science at the University of California, Davis. My journey in technology is fueled by a strong desire to solve complex problems and leverage data to uncover impactful insights.
+I’m **V V S Aakash Kotha**, a **Software Engineer and AI Systems Researcher** pursuing my **M.S. in Computer Science at the University of California, Davis**.  
 
-### Research Work
-- **Silent Speech Decoding:** Collaborating with Dr. Lee Miller on using face feature tracking for silent speech decoding.
-- **Black-box Attack Research:** Previously worked with Dr. Anshuman on developing a black-box attack using a vanilla GAN, revealing critical vulnerabilities in state-of-the-art deep clustering models and optimizing query complexity to under 4,000 queries per model.
-  
-### About Me: 
-- ⚡ Fun fact: I’m deeply fascinated by the potential of applied machine learning and enjoy researching how these technologies can address real-world challenges and enhance everyday life.
+I specialize in building **LLM-driven and data-centric systems** that merge scalable software design with applied AI research, from backend architecture to full-stack product engineering.
 
-Feel free to connect with me to discuss technology, machine learning, or any exciting projects!
+---
+
+### 💻 Software Engineering Highlights  
+- **TinkerfAI – Full-Stack LLM Platform:** Designed a production-ready zero-code ML training app using **React + FastAPI + AWS (App Runner, Cognito, DynamoDB, S3)**; implemented guardrailed GPT-4o prompting and multi-role access workflows.  
+- **Retrieval-Augmented Generation – Wang Lab:** Architected a cloud-based RAG system with topic-segmented vector stores, query decomposition, and Raptor summarization, reducing retrieval latency by 70 %.  
+- **Backend Systems & DevOps:** Built CI/CD pipelines with Docker and AWS App Runner; deployed multi-service APIs on AWS with container orchestration and secrets management.  
+
+---
+
+### 🔬 Research & Applied AI  
+- **Silent Speech Decoding – Miller Lab:** Synthesized an sEMG → speech pipeline (HuBERT + Tacotron-2) restoring laryngectomy patients’ voices with 82 % intelligibility.  
+- **LLM Evaluation – Turing:** Built a multi-agent benchmarking framework with *LLM-as-a-Judge* and consensus validation, auditing GPT-4o vs Gemini 2.5 Pro for reasoning reliability.  
+- **LLM Hallucination Audit:** Designed a quantitative framework analyzing hallucination behavior using chi-square tests, z-tests, and logistic regression, revealing a 37 % reduction in GPT-4o hallucination rate compared to GPT-3.5.  
+
+---
+
+### 🧠 Technical Stack  
+**Languages:** Python, Java, C++, R, MATLAB, SQL, JavaScript, TypeScript  
+**Frameworks & Libraries:** React, FastAPI, Flask, Streamlit, PyTorch, TensorFlow, Keras, Scikit-learn, LlamaIndex, LangChain, LangGraph  
+**Tools & Platforms:** Docker, CI/CD, AWS (S3, DynamoDB), MongoDB, MySQL, PostgreSQL, Postman, Selenium, Git, Tableau  
+**Concepts:** System Design, OOP, Software Architecture, Deep Learning, NLP, LLMs, MCP, Computer Vision  
+
+---
+
+### 🏆 Achievements  
+- **ECE Fellowship – $5 000** for contributions to agentic AI systems  
+- **AWS AI & ML Scholarship Recipient**  
+- **UC Davis Teaching Assistant** – taught 400 + students through live debugging and personalized guidance  
+
+---
+
+### 🤝 Let’s Connect  
+📫 **vkotha@ucdavis.edu**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kothavvsaakash/) | [GitHub](https://github.com/AakashKotha)
+
 
 <!--
 <p align="center"> 
@@ -44,13 +75,18 @@ Feel free to connect with me to discuss technology, machine learning, or any exc
  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AakashKotha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AakashKotha&hide_border=true&theme=gotham&background=060A0CD0" />
 </p>
 
-### Interests
+### 🧠 Interests
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-%230A0?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%231572B6?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23E34F26?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%23FFA500?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-%2300599C?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/System%20Design-%23323330?style=for-the-badge&logo=archlinux&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/AI%20Systems-%237159c1?style=for-the-badge&logo=ai&logoColor=white" alt="AI Systems" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%231572B6?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23E34F26?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%23FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-%23F7DF1E?style=for-the-badge&logo=openai&logoColor=black" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/Data%20Science-%230A0?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
 </p>
+
 
 
 
